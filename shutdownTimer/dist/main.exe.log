@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "main.pyw", line 2, in <module>
+  File "code.pyo", line 1, in <module>
+  File "PyQt4\QtGui.pyo", line 12, in <module>
+  File "PyQt4\QtGui.pyo", line 10, in __load
+ImportError: No module named sip
